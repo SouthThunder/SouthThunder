@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SouthThunder/SouthThunder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/SouthThunder/SouthThunder/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 
