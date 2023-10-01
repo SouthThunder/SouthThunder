@@ -19,7 +19,10 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          normal_out_path: dist/github-snake.svg
+          dark_out_path: dist/github-snake-dark.svg?palette=github-dark
+
 
 
       - name: push snake.svg to the output branch
