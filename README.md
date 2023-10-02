@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Luis 🖐️</h2>
+<h1 align="left">Hi, I'm Luis 🖐️</h1>
 
 ###
 
@@ -6,22 +6,15 @@
 
 ###
 
-<br clear="both">
+<img align="left" height="200" src="https://raw.githubusercontent.com/SouthThunder/SouthThunder/images/myOctocat.png"  />
+
+###
 
 <p align="left">- ⚙️ I'm a system Engineering and data science student from Bogota Colombia. <br>- 💻 My journey in the world of technology has been driven by an insatiable curiosity and an unbending commitment to improving my craft<br>-  🕷️ I'm dreaming of being the recipient of the first-ever free bug/error compilation.</p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouthThunder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SouthThunder&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SouthThunder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <br clear="both">
-
 
 ###
 
@@ -35,7 +28,7 @@
 
 ###
 
-<h2 align="left">May thou discover shelter from bugs</h2>
+<h2 align="left">May thou discover shelter from bugs 🕷️</h2>
 
 ###
 
@@ -79,6 +72,15 @@
   <img src="https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white&style=for-the-badge" height="40" alt="planetscale logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+
+<h2>My stats 📊</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SouthThunder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SouthThunder&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SouthThunder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <picture>
